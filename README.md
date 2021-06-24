@@ -10,3 +10,4 @@ Some demos, ideas, ideas that may be helpful
   * [ezy-slice](https://github.com/DavidArayan/ezy-slice)
   * [DynamicBone-MagicaCloth](https://github.com/distony970/DynamicBone-MagicaCloth)
   * [UnityMagicaCloth_Test](https://github.com/bilter1001/UnityMagicaCloth_Test)
+  * [procedural-mesh-generator](https://github.com/rystills/procedural-mesh-generator)
