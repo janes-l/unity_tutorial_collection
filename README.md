@@ -7,4 +7,4 @@ Some demos, ideas, ideas that may be helpful
 
 ## Collection of plug-ins for personal use
 * Mesh
-  *[ezy-slice](https://github.com/DavidArayan/ezy-slice)
+  * [ezy-slice](https://github.com/DavidArayan/ezy-slice)
