@@ -8,3 +8,5 @@ Some demos, ideas, ideas that may be helpful
 ## Collection of plug-ins for personal use
 * Mesh
   * [ezy-slice](https://github.com/DavidArayan/ezy-slice)
+  * [DynamicBone-MagicaCloth](https://github.com/distony970/DynamicBone-MagicaCloth)
+  * [UnityMagicaCloth_Test](https://github.com/bilter1001/UnityMagicaCloth_Test)
