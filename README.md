@@ -21,6 +21,7 @@ Some demos, ideas, ideas that may be helpful
   * [Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain)
   * [NvidaBlast](https://github.com/liuhuixin/NvidaBlast)
   * [unity-fracture](https://github.com/ElasticSea/unity-fracture)
+  * [Clipper](https://github.com/Geri-Borbas/Clipper)
 
 
 ## Jasper Flick tutorials
