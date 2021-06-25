@@ -26,3 +26,6 @@ Some demos, ideas, ideas that may be helpful
 
 ## Jasper Flick tutorials
 * [tutorials](https://catlikecoding.com/unity/tutorials/)
+
+## GameAlgorithm
+* [LinHowe_GameAlgorithm](https://github.com/IceLanguage/LinHowe_GameAlgorithm)
