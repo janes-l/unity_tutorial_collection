@@ -19,4 +19,4 @@ Some demos, ideas, ideas that may be helpful
 
 
 ## Jasper Flick tutorials
-* [basics](https://catlikecoding.com/unity/tutorials/basics/)
+* [tutorials](https://catlikecoding.com/unity/tutorials/)
