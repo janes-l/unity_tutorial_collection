@@ -29,3 +29,6 @@ Some demos, ideas, ideas that may be helpful
 
 ## GameAlgorithm
 * [LinHowe_GameAlgorithm](https://github.com/IceLanguage/LinHowe_GameAlgorithm)
+
+## GpuInstance
+* [UnityGpuInstancedAnimation](https://github.com/piti6/UnityGpuInstancedAnimation)
