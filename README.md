@@ -11,3 +11,4 @@ Some demos, ideas, ideas that may be helpful
   * [DynamicBone-MagicaCloth](https://github.com/distony970/DynamicBone-MagicaCloth)
   * [UnityMagicaCloth_Test](https://github.com/bilter1001/UnityMagicaCloth_Test)
   * [procedural-mesh-generator](https://github.com/rystills/procedural-mesh-generator)
+  * [unity-procedural-cables](https://github.com/henrihanot/unity-procedural-cables)
