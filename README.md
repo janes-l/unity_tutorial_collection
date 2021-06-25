@@ -32,3 +32,4 @@ Some demos, ideas, ideas that may be helpful
 
 ## GpuInstance
 * [UnityGpuInstancedAnimation](https://github.com/piti6/UnityGpuInstancedAnimation)
+* [Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing)
