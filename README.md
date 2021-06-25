@@ -16,6 +16,11 @@ Some demos, ideas, ideas that may be helpful
   * [procedural-mesh-generator](https://github.com/rystills/procedural-mesh-generator)
   * [unity-procedural-cables](https://github.com/henrihanot/unity-procedural-cables)
 
+* Destructible terrain
+  * [DTerrain](https://github.com/Ideefixze/DTerrain)
+  * [Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain)
+  * [NvidaBlast](https://github.com/liuhuixin/NvidaBlast)
+  * [unity-fracture](https://github.com/ElasticSea/unity-fracture)
 
 
 ## Jasper Flick tutorials
