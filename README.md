@@ -34,6 +34,9 @@ Some demos, ideas, ideas that may be helpful
   * [Unity_MetaBalls_Liquids](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
   * [URP-LiquidShadergraph](https://github.com/aniruddhahar/URP-LiquidShadergraph)
 
+* Vibration
+  * [Vibration](https://github.com/BenoitFreslon/Vibration)
+
 
 ## Jasper Flick tutorials
 * [tutorials](https://catlikecoding.com/unity/tutorials/)
