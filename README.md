@@ -31,6 +31,7 @@ Some demos, ideas, ideas that may be helpful
 * Effect
   * [LiquidSwipeUnity](https://github.com/FaizanDurrani/LiquidSwipeUnity)
   * [Unity_MetaBalls_Liquids](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
+  * [URP-LiquidShadergraph](https://github.com/aniruddhahar/URP-LiquidShadergraph)
 
 
 ## Jasper Flick tutorials
