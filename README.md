@@ -7,6 +7,7 @@ Some demos, ideas, ideas that may be helpful
 
 ## Collection of plugins organized by others
 * [awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github)
+* [Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection)
 
 ## Collection of plug-ins for personal use
 * Mesh
