@@ -28,6 +28,9 @@ Some demos, ideas, ideas that may be helpful
   * [unity-test-Spiral](https://github.com/becky3/unity-test-Spiral)
   * [Spiral-Roll-Demo](https://github.com/eray-kurtulus/Spiral-Roll-Demo)
 
+* Effect
+  * [LiquidSwipeUnity](https://github.com/FaizanDurrani/LiquidSwipeUnity)
+
 
 ## Jasper Flick tutorials
 * [tutorials](https://catlikecoding.com/unity/tutorials/)
