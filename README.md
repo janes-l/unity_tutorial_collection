@@ -9,7 +9,7 @@ Some demos, ideas, ideas that may be helpful
 * [awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github)
 * [Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection)
 
-## Collection of plug-ins for personal use
+## Collection of plugins for personal use
 * Mesh
   * [ezy-slice](https://github.com/DavidArayan/ezy-slice)
   * [DynamicBone-MagicaCloth](https://github.com/distony970/DynamicBone-MagicaCloth)
@@ -44,6 +44,9 @@ Some demos, ideas, ideas that may be helpful
 
 * NetWork
   * [Mirror](https://github.com/vis2k/Mirror)
+
+## Shader
+* [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader)
 
 ## Jasper Flick tutorials
 * [tutorials](https://catlikecoding.com/unity/tutorials/)
