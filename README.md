@@ -47,6 +47,7 @@ Some demos, ideas, ideas that may be helpful
 
 ## Shader
 * [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader)
+* [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
 
 ## Jasper Flick tutorials
 * [tutorials](https://catlikecoding.com/unity/tutorials/)
