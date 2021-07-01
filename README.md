@@ -37,8 +37,9 @@ Some demos, ideas, ideas that may be helpful
 * Vibration
   * [Vibration](https://github.com/BenoitFreslon/Vibration)
 
-* Mathf
+* Mathf & Algorithm
   * [MathUtilities](https://github.com/zalo/MathUtilities)
+  * [Position-Based-Dynamics](https://github.com/Scrawk/Position-Based-Dynamics)
 
 
 ## Jasper Flick tutorials
