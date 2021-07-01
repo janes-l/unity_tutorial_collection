@@ -49,6 +49,7 @@ Some demos, ideas, ideas that may be helpful
 
 * Editor
   * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
+  * [UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)
 
 ## Shader
 * [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
