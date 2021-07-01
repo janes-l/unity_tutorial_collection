@@ -44,6 +44,7 @@ Some demos, ideas, ideas that may be helpful
 
 * NetWork
   * [Mirror](https://github.com/vis2k/Mirror)
+  * [MagicOnion](https://github.com/Cysharp/MagicOnion)
 
 * Editor
   * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
