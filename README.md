@@ -33,6 +33,7 @@ Some demos, ideas, ideas that may be helpful
   * [LiquidSwipeUnity](https://github.com/FaizanDurrani/LiquidSwipeUnity)
   * [Unity_MetaBalls_Liquids](https://github.com/Nesh108/Unity_MetaBalls_Liquids)
   * [URP-LiquidShadergraph](https://github.com/aniruddhahar/URP-LiquidShadergraph)
+  * [Skinner](https://github.com/keijiro/Skinner)
 
 * Vibration
   * [Vibration](https://github.com/BenoitFreslon/Vibration)
