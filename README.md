@@ -45,6 +45,9 @@ Some demos, ideas, ideas that may be helpful
 * NetWork
   * [Mirror](https://github.com/vis2k/Mirror)
 
+* Editor
+  * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
+
 ## Shader
 * [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader)
 * [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
