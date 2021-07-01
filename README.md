@@ -51,8 +51,13 @@ Some demos, ideas, ideas that may be helpful
   * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
 
 ## Shader
-* [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader)
 * [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
+
+## QianMo
+* [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader)
+* [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+* [Unity-Design-Pattern](https://github.com/QianMo/Unity-Design-Pattern)
+* [X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library)
 
 ## Jasper Flick tutorials
 * [tutorials](https://catlikecoding.com/unity/tutorials/)
