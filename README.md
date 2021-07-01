@@ -37,6 +37,9 @@ Some demos, ideas, ideas that may be helpful
 * Vibration
   * [Vibration](https://github.com/BenoitFreslon/Vibration)
 
+* Mathf
+  * [MathUtilities](https://github.com/zalo/MathUtilities)
+
 
 ## Jasper Flick tutorials
 * [tutorials](https://catlikecoding.com/unity/tutorials/)
