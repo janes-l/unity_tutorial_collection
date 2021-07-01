@@ -16,6 +16,7 @@ Some demos, ideas, ideas that may be helpful
   * [UnityMagicaCloth_Test](https://github.com/bilter1001/UnityMagicaCloth_Test)
   * [procedural-mesh-generator](https://github.com/rystills/procedural-mesh-generator)
   * [unity-procedural-cables](https://github.com/henrihanot/unity-procedural-cables)
+  * [Deform](https://github.com/keenanwoodall/Deform)
 
 * Destructible terrain
   * [DTerrain](https://github.com/Ideefixze/DTerrain)
