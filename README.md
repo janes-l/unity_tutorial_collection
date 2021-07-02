@@ -54,6 +54,10 @@ Some demos, ideas, ideas that may be helpful
   * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
   * [UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)
 
+* Move & AI
+  * [unity-movement-ai](https://github.com/sturdyspoon/unity-movement-ai)
+  * [UnitySteer](https://github.com/ricardojmendez/UnitySteer)
+
 ## Shader
 * [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
 * [shadertoy](https://www.shadertoy.com/)
