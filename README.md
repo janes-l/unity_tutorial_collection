@@ -19,6 +19,7 @@ Some demos, ideas, ideas that may be helpful
   * [unity-procedural-cables](https://github.com/henrihanot/unity-procedural-cables)
   * [Deform](https://github.com/keenanwoodall/Deform)
   * [SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation)
+  * [unity-deformablesnow](https://github.com/thnewlands/unity-deformablesnow)
 
 * Destructible terrain
   * [DTerrain](https://github.com/Ideefixze/DTerrain)
