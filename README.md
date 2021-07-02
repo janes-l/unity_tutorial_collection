@@ -58,6 +58,9 @@ Some demos, ideas, ideas that may be helpful
   * [unity-movement-ai](https://github.com/sturdyspoon/unity-movement-ai)
   * [UnitySteer](https://github.com/ricardojmendez/UnitySteer)
 
+* Painter
+  * [InkPainter](https://github.com/EsProgram/InkPainter)
+
 ## Shader
 * [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
 * [shadertoy](https://www.shadertoy.com/)
