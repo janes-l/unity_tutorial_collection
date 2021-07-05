@@ -62,6 +62,9 @@ Some demos, ideas, ideas that may be helpful
 * Painter
   * [InkPainter](https://github.com/EsProgram/InkPainter)
 
+* Debug
+  * [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole)
+
 ## Shader
 * [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
 * [shadertoy](https://www.shadertoy.com/)
