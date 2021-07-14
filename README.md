@@ -21,6 +21,7 @@ Some demos, ideas, ideas that may be helpful
   * [Deform](https://github.com/keenanwoodall/Deform)
   * [SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation)
   * [unity-deformablesnow](https://github.com/thnewlands/unity-deformablesnow)
+  * [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier)
 
 * Destructible terrain
   * [DTerrain](https://github.com/Ideefixze/DTerrain)
