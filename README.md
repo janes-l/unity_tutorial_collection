@@ -73,6 +73,7 @@ Some demos, ideas, ideas that may be helpful
 * [shadertoy](https://www.shadertoy.com/)
 * [ShaderMan](https://github.com/smkplus/ShaderMan)
 * [uRaymarching](https://github.com/hecomi/uRaymarching)
+* [NoiseShader](https://github.com/keijiro/NoiseShader)
 
 ## QianMo
 * [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader)
