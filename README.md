@@ -9,7 +9,6 @@ Some demos, ideas, ideas that may be helpful
 * [awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github)
 * [Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection)
 * [Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)
-* [awesome-unity3d#framework](https://github.com/insthync/awesome-unity3d#framework)
 * [awesome-unity3d](https://github.com/insthync/awesome-unity3d)
 
 ## Collection of plugins for personal use
