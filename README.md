@@ -54,6 +54,7 @@ Some demos, ideas, ideas that may be helpful
 * Editor
   * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
   * [UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)
+  * [MyBox](https://github.com/Deadcows/MyBox)
 
 * Move & AI
   * [unity-movement-ai](https://github.com/sturdyspoon/unity-movement-ai)
