@@ -89,6 +89,7 @@ Some demos, ideas, ideas that may be helpful
 * [TexturePanner](https://github.com/AdultLink/TexturePanner)
 * [unity-shadergraph-sandbox](https://github.com/andydbc/unity-shadergraph-sandbox)
 * [Unity-Shader-Demo](https://github.com/KaimaChen/Unity-Shader-Demo)
+* [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline)
 
 ## QianMo
 * [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader)
