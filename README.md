@@ -48,6 +48,7 @@ Some demos, ideas, ideas that may be helpful
 * Mathf & Algorithm
   * [MathUtilities](https://github.com/zalo/MathUtilities)
   * [Position-Based-Dynamics](https://github.com/Scrawk/Position-Based-Dynamics)
+  * [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution)
 
 * NetWork
   * [Mirror](https://github.com/vis2k/Mirror)
