@@ -75,6 +75,7 @@ Some demos, ideas, ideas that may be helpful
 * [ShaderMan](https://github.com/smkplus/ShaderMan)
 * [uRaymarching](https://github.com/hecomi/uRaymarching)
 * [NoiseShader](https://github.com/keijiro/NoiseShader)
+* [TexturePanner](https://github.com/AdultLink/TexturePanner)
 
 ## QianMo
 * [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader)
