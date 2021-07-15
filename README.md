@@ -49,6 +49,7 @@ Some demos, ideas, ideas that may be helpful
   * [MathUtilities](https://github.com/zalo/MathUtilities)
   * [Position-Based-Dynamics](https://github.com/Scrawk/Position-Based-Dynamics)
   * [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution)
+  * [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone)
 
 * NetWork
   * [Mirror](https://github.com/vis2k/Mirror)
