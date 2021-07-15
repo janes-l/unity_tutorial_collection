@@ -68,6 +68,7 @@ Some demos, ideas, ideas that may be helpful
 
 * Debug
   * [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole)
+  * [consolation](https://github.com/mminer/consolation)
 
 * Tools 
   * [XUPorter](https://github.com/onevcat/XUPorter)
