@@ -72,6 +72,9 @@ Some demos, ideas, ideas that may be helpful
 * Tools 
   * [XUPorter](https://github.com/onevcat/XUPorter)
 
+* UGUI
+  * [TextInlineSprite](https://github.com/coding2233/TextInlineSprite)
+
 ## Shader
 * [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
 * [shadertoy](https://www.shadertoy.com/)
