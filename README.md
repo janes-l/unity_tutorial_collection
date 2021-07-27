@@ -97,6 +97,7 @@ Some demos, ideas, ideas that may be helpful
 * [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline)
 * [VerticalDissolve](https://github.com/AdultLink/VerticalDissolve)
 * [Toon-Shader](https://github.com/SnutiHQ/Toon-Shader)
+* [Unity3DCrossSectionShader](https://github.com/Dandarawy/Unity3DCrossSectionShader)
 
 ## QianMo
 * [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader)
