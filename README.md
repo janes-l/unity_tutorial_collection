@@ -80,6 +80,7 @@ Some demos, ideas, ideas that may be helpful
 * UGUI
   * [TextInlineSprite](https://github.com/coding2233/TextInlineSprite)
   * [Unity-UI-Polygon](https://github.com/CiaccoDavide/Unity-UI-Polygon)
+  * [Unity-UI-Rounded-Corners](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners)
 
 * CAR 
   * [Randomation-Vehicle-Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics)
