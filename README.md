@@ -95,6 +95,7 @@ Some demos, ideas, ideas that may be helpful
 * [Unity-Shader-Demo](https://github.com/KaimaChen/Unity-Shader-Demo)
 * [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline)
 * [VerticalDissolve](https://github.com/AdultLink/VerticalDissolve)
+* [Toon-Shader](https://github.com/SnutiHQ/Toon-Shader)
 
 ## QianMo
 * [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader)
