@@ -52,6 +52,7 @@ Some demos, ideas, ideas that may be helpful
   * [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone)
   * [unity-triangulation2D](https://github.com/mattatz/unity-triangulation2D)
   * [unity-teddy](https://github.com/mattatz/unity-teddy)
+  * [SplineMesh](https://github.com/benoit-dumas/SplineMesh)
 
 * NetWork
   * [Mirror](https://github.com/vis2k/Mirror)
